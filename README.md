@@ -126,11 +126,10 @@ Use the Kaggle Jupyter Server, you can use the provided VSCode Compatible URL an
 
 
 ```bash
-python3 -m venv .venvKaggleProject2026
-source .venvKaggleProject2026/bin/activate
+python3.11 -m venv .mlproject2026
+source .mlproject2026/bin/activate
 pip install -r requirements.txt
 python -m ipykernel install --user --name MLProject2026 --display-name "Python (MLProject2026)"
-
 # Launch the Jupyter Server
 jupyter notebook
 ```
