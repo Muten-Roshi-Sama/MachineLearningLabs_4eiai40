@@ -1,7 +1,12 @@
+# .gitignore
+
+
+# data
 *.zip
-
 project_2026_dataset
+data/CACHE_model_trained.pkl
 
+
+# Metadata
 .mlproject2026
-
 .vscode/
