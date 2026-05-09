@@ -5,6 +5,7 @@
 *.zip
 project_2026_dataset
 data/CACHE_model_trained.pkl
+tuning/
 
 
 # Metadata
