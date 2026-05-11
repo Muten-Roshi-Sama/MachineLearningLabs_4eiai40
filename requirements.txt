@@ -11,3 +11,23 @@ learntools
 
 opencv-python
 tensorflow
+
+
+# Reinforcement Learning
+pyvirtualdisplay
+gymnasium
+pygame
+numpy
+imageio
+imageio_ffmpeg
+pyglet==1.5.1
+tqdm
+
+
+
+
+
+
+
+
+
